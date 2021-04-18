@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+</defs>
+<g transform="matrix(0 0 0 0 0 0)" id="955aa5a6-2241-4a71-820d-e6a5af3e315c"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="b9db865b-25ba-4ae6-92a8-0512d163c411"  >
+<rect style=fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1"  vector-effect="scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(3.62 0 0 3.62 885.22 540.16)"  >
+<path style=fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1" vector-effect="scaling-stroke"  transform=" translate(-50, -50)" d="M 90.375 90.375 L 9.625 90.375 L 9.625 9.625 L 90.375 9.625 L 90.375 90.375 z M 11.625 88.375 L 88.375 88.375 L 88.375 11.625 L 11.625 11.625 L 11.625 88.375 z" stroke-linecap="square" />
+</g>
+<g transform="matrix(7.62 0 0 4.83 371.26 540.04)"  >
+<path style=fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1" vector-effect="scaling-stroke"  transform=" translate(-50, -50)" d="M 94.75 50 C 94.75 56.213 89.514 61.25 83.054 61.25 L 16.946 61.25 C 10.486 61.25 5.25 56.213 5.25 50 L 5.25 50 C 5.25 43.787 10.486 38.75 16.945999999999998 38.75 L 83.053 38.75 C 89.514 38.75 94.75 43.787 94.75 50 L 94.75 50 z" stroke-linecap="square" />
+</g>
+</svg>

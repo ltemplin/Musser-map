@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="86.178558mm"
+   height="80.130943mm"
+   viewBox="0 0 86.178559 80.130944"
+   version="1.1"
+   id="svg40"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="parking3.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1027"
+     id="namedview80"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.65477694"
+     inkscape:cx="215.71425"
+     inkscape:cy="201.42858"
+     inkscape:window-x="-8"
+     inkscape:window-y="17"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs34">
+    <rect
+       x="60.476189"
+       y="92.98214"
+       width="77.10714"
+       height="87.690475"
+       id="rect48" />
+  </defs>
+  <metadata
+     id="metadata37">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.160728,-101.29761)">
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="path42"
+       cx="90.691238"
+       cy="144.16568"
+       rx="91.092255"
+       ry="88.824409"
+       transform="rotate(-0.30426199)" />
+    <ellipse
+       style="fill:#ff0000;stroke-width:0.146185"
+       id="path44"
+       cx="95.250008"
+       cy="141.36308"
+       rx="43.089279"
+       ry="40.065472" />
+    <text
+       xml:space="preserve"
+       id="text46"
+       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect48);fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="translate(18.142857,18.898809)"><tspan
+         x="60.476562"
+         y="139.3288"><tspan
+           style="font-size:50.8px;fill:#ffffff">P</tspan></tspan></text>
+  </g>
+</svg>
