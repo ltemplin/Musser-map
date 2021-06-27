@@ -1,0 +1,322 @@
+<!DOCTYPE qgis-layer-definition>
+<qlr>
+  <layer-tree-group name="" expanded="1" checked="Qt::Checked">
+    <customproperties/>
+    <layer-tree-layer name="Yellow Trail" checked="Qt::Checked" expanded="1" source="../gpx files/DOWNHILL YELLOW 20210514.gpx|layername=tracks" providerKey="ogr" legend_split_behavior="0" legend_exp="" patch_size="-1,-1" id="DOWNHILL_YELLOW_20210514_tracks_dca47cbd_5979_4d91_9dee_62a443d0e85c">
+      <customproperties/>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <maplayers>
+    <maplayer type="vector" simplifyAlgorithm="0" readOnly="0" labelsEnabled="0" minScale="100000000" wkbType="MultiLineStringZ" refreshOnNotifyMessage="" autoRefreshEnabled="0" styleCategories="AllStyleCategories" simplifyDrawingTol="1" geometry="Line" simplifyLocal="1" simplifyMaxScale="1" autoRefreshTime="0" simplifyDrawingHints="1" hasScaleBasedVisibilityFlag="0" refreshOnNotifyEnabled="0" maxScale="0">
+      <extent>
+        <xmin>-75.42977350763976574</xmin>
+        <ymin>40.36496730521321297</ymin>
+        <xmax>-75.42678971774876118</xmax>
+        <ymax>40.36867336370050907</ymax>
+      </extent>
+      <id>DOWNHILL_YELLOW_20210514_tracks_dca47cbd_5979_4d91_9dee_62a443d0e85c</id>
+      <datasource>../gpx files/DOWNHILL YELLOW 20210514.gpx|layername=tracks</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Yellow Trail</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>GEOGCRS["WGS 84",DATUM["World Geodetic System 1984",ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["unknown"],AREA["World"],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal durationField="" endExpression="" accumulate="0" durationUnit="min" endField="" startField="" enabled="0" startExpression="" fixedDuration="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <renderer-v2 type="singleSymbol" forceraster="0" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol type="line" name="0" alpha="1" clip_to_extent="1" force_rhr="0">
+            <layer locked="0" pass="0" enabled="1" class="SimpleLine">
+              <prop k="align_dash_pattern" v="0"/>
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="dash_pattern_offset" v="0"/>
+              <prop k="dash_pattern_offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="dash_pattern_offset_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="247,236,11,255"/>
+              <prop k="line_style" v="dash"/>
+              <prop k="line_width" v="0.66"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="ring_filter" v="0"/>
+              <prop k="tweak_dash_pattern_on_corners" v="0"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option type="QString" name="name" value=""/>
+                  <Option name="properties"/>
+                  <Option type="QString" name="type" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <legend type="default-vector"/>
+      <referencedLayers/>
+      <fieldConfiguration>
+        <field name="name" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="cmt" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="desc" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="src" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="link1_href" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="link1_text" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="link1_type" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="link2_href" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="link2_text" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="link2_type" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="number" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="type" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="gpxx_TrackExtension" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="gpxtrkx_TrackStatsExtension" configurationFlags="None">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias name="" field="name" index="0"/>
+        <alias name="" field="cmt" index="1"/>
+        <alias name="" field="desc" index="2"/>
+        <alias name="" field="src" index="3"/>
+        <alias name="" field="link1_href" index="4"/>
+        <alias name="" field="link1_text" index="5"/>
+        <alias name="" field="link1_type" index="6"/>
+        <alias name="" field="link2_href" index="7"/>
+        <alias name="" field="link2_text" index="8"/>
+        <alias name="" field="link2_type" index="9"/>
+        <alias name="" field="number" index="10"/>
+        <alias name="" field="type" index="11"/>
+        <alias name="" field="gpxx_TrackExtension" index="12"/>
+        <alias name="" field="gpxtrkx_TrackStatsExtension" index="13"/>
+      </aliases>
+      <defaults>
+        <default field="name" applyOnUpdate="0" expression=""/>
+        <default field="cmt" applyOnUpdate="0" expression=""/>
+        <default field="desc" applyOnUpdate="0" expression=""/>
+        <default field="src" applyOnUpdate="0" expression=""/>
+        <default field="link1_href" applyOnUpdate="0" expression=""/>
+        <default field="link1_text" applyOnUpdate="0" expression=""/>
+        <default field="link1_type" applyOnUpdate="0" expression=""/>
+        <default field="link2_href" applyOnUpdate="0" expression=""/>
+        <default field="link2_text" applyOnUpdate="0" expression=""/>
+        <default field="link2_type" applyOnUpdate="0" expression=""/>
+        <default field="number" applyOnUpdate="0" expression=""/>
+        <default field="type" applyOnUpdate="0" expression=""/>
+        <default field="gpxx_TrackExtension" applyOnUpdate="0" expression=""/>
+        <default field="gpxtrkx_TrackStatsExtension" applyOnUpdate="0" expression=""/>
+      </defaults>
+      <constraints>
+        <constraint notnull_strength="0" field="name" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="cmt" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="desc" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="src" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="link1_href" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="link1_text" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="link1_type" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="link2_href" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="link2_text" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="link2_type" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="number" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="type" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="gpxx_TrackExtension" unique_strength="0" constraints="0" exp_strength="0"/>
+        <constraint notnull_strength="0" field="gpxtrkx_TrackStatsExtension" unique_strength="0" constraints="0" exp_strength="0"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint field="name" exp="" desc=""/>
+        <constraint field="cmt" exp="" desc=""/>
+        <constraint field="desc" exp="" desc=""/>
+        <constraint field="src" exp="" desc=""/>
+        <constraint field="link1_href" exp="" desc=""/>
+        <constraint field="link1_text" exp="" desc=""/>
+        <constraint field="link1_type" exp="" desc=""/>
+        <constraint field="link2_href" exp="" desc=""/>
+        <constraint field="link2_text" exp="" desc=""/>
+        <constraint field="link2_type" exp="" desc=""/>
+        <constraint field="number" exp="" desc=""/>
+        <constraint field="type" exp="" desc=""/>
+        <constraint field="gpxx_TrackExtension" exp="" desc=""/>
+        <constraint field="gpxtrkx_TrackStatsExtension" exp="" desc=""/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <dataDefinedFieldProperties/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+  </maplayers>
+</qlr>
