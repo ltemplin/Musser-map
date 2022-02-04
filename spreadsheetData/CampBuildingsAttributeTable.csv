@@ -1,0 +1,108 @@
+id,Name,Camp,Type,Symbol,Condition,Legend #,Capacity,Sleep Cap,Heat,Electric,Fireplace,Run Water,Toliet,latrine,lat,long,Legend Lbl,Symbol Ang,Sym X,Sym Y,Show Label,Standard,Cost,Tent Space,Parking,Trailer,Adriondack,Beds,Terrain,Addtl Note,Identified,legend lab
+"32",Runyan Lean-to #1,Delmont,Lean-to,,Ruin,"7","8","0","0","0","0","0","0",,40.343850,-75.448325,,,,,true,,,,,,,,,,,D-7
+"30",Knollbrook Lodge,Delmont,cabin,cabin,Not usable,"6",,,,,,,,"1",40.347757,-75.445348,,,,,true,Rustic,,,,,,,,,Yes,D-6
+"27",Knollbrook latrine,Delmont,latrine wash st,,,,,"0",,,,,,"1",40.347445,-75.445234,Knollbrook Lodge,,,,true,,,,,,,,,,,D-
+"43",latrine,Delmont,latrine,,,,,,,,,,,,40.344607,-75.442657,,,,,true,,,,,,,,,,,D-
+"26",latrine,Delmont,latrine,,,,,,,,,,,,40.345264,-75.442421,,,,,true,,,,,,,,,,,D-
+"24",latrine,Delmont,latrine,,,,,,,,,,,,40.345504,-75.442267,,,,,true,,,,,,,,,,,D-
+"22",Range,Delmont,range,range,,K,,,,,,,,,40.347389,-75.442266,,,,,true,,,,,,,,,,,D-K
+"23",latrine,Delmont,latrine,,,,,,,,,,,,40.347950,-75.441251,,,,,true,,,,,,,,,,,D-
+"1",Sevier Lodge,Delmont,admin,admin,,"8",,,,,,,,,40.348991,-75.441324,Sevier Lodge,"105",,,true,,,,,,,,,,,D-8
+"21",Cedar Dining Hall,Delmont,Dining Hall,Dining Hall,,"31","1000",,,,,,,,40.348549,-75.438447,Cedar Dining Hall,,,,true,,,,,,,,,,,D-31
+"20",Dock,Delmont,waterfront,flag,,J,,,,,,,,,40.347325,-75.437571,,,,,true,,,,,,,,,,,D-J
+"17",latrine,Delmont,latrine,,,,,,,,,,,,40.346473,-75.438501,,,,,true,,,,,,,,,,,D-
+"18",Vognetz Pavilion,Delmont,Pavilion,Pavilion,,"25",,,,,,,,,40.347344,-75.439818,,,,,true,,,,,,,,,,,D-25
+"15",showers,Delmont,Ruin,,,,,,,,,,,,40.347143,-75.440253,,,,,true,,,,,,,,,,,D-
+"14",Schweiker Lodge,Delmont,cabin,cabin,,"27",,,,,,,,,40.350702,-75.440285,Schweiker Lodge,,,,true,,,,,,,,,,,D-27
+"11",OA Ceremonial Grounds,Delmont,OA,OA,,B,,,,,,,,,40.351842,-75.439580,OA Ceremony Grounds,,,,true,,,,,,,,,,,D-B
+"12",Cooks Cabin,Delmont,admin,admin,,,,,,,,,,,40.348931,-75.438625,,,,,false,,,,,,,,,,,D-
+"9",Sparks  Cabin,Delmont,admin,cabin,,,,,,,,,,,40.349104,-75.438474,Sparks Lodge,,,,false,,,,,,,,,,,D-
+"10",OA Lean-tos,Delmont,Lean-to,,,"28",,,,,,,,,40.350177,-75.439552,OA Lean To's,,,,true,,,,,,,,,,,D-28
+"7",Gren Day Cabin,Delmont,admin,cabin,,"29",,,,,,,,,40.349542,-75.438929,,,,,false,,,,,,,,,,,D-29
+"8",Pioneer Pavilion,Delmont,Pavilion,Pavilion,,"35",,,,,,,,,40.353368,-75.435442,Pioneer Dining Hall,,,,true,,,,,,,,,,,D-35
+"5",Pioneer Cabin,Delmont,cabin,cabin,,"34",,,,,,,,,40.353901,-75.435660,Pioneer Lodge,,,,true,,,,,,,,,,,D-34
+"6",Spaid Lodge,Delmont,admin,cabin,,,,,,,,,,,40.352413,-75.436260,,,,,false,,,,,,,,,,,D-
+"40",Lucian Maxwell Cabin,Delmont,cabin,cabin,repair,"37",,,,,,,,,40.353508,-75.431826,Lucian Maxwell Cabin,,,,true,,,,,,,,,,Yes,D-37
+"99",Korman Lodge,Hart,cabin,cabin,,"7",,,,,,,,,40.361261,-75.431149,,,,,true,,,,,,,,,,,H-7
+"98",Water Reservoir,Hart,admin,admin,,,,,,,,,,,40.364300,-75.430077,,,,,false,,,,,,,,,,,H-
+"95",Chapel,Hart,chapel,chapel,,C,,,,,,,,,40.364309,-75.429563,,,,,true,,,,,,,,,,,H-C
+"96",Maple Lodge,Hart,cabin,cabin,,Z,,,,,,,,,40.363643,-75.429444,,,,,true,,,,,,,,,,,H-Z
+"64",Barn,Hart,admin,admin,,N,,,,,,,,,40.363784,-75.428795,,"155",,,true,,,,,,,,,,,H-N
+"93",Basketball Court,Hart,court,court,,O,,,,,,,,,40.362346,-75.426675,,,,,true,,,,,,,,,,,H-O
+"91",Hart Dining Hall,Hart,Dining Hall,Dining Hall,,"1",,,,,,,,,40.364312,-75.426306,,,,,true,,,,,,,,,,,H-1
+"92",Pool,Hart,Pool,Pool,,E,,,,,,,,,40.364209,-75.424909,,,,,true,,,,,,,,,,,H-E
+"90",Perry Long Lodge,Hart,cabin,cabin,,"2",,,,,,,,,40.364476,-75.427570,,,,,true,,,,,,,,,,,H-2
+"63",Cozy,Hart,admin,admin,,"3",,,,,,,,,40.364224,-75.427204,,"155",,,true,,,,,,,,,,,H-3
+"88",Health Lodge,Hart,First Aid,,,"4",,,,,,,,,40.363513,-75.427311,,,,,true,,,,,,,,,,,H-4
+"89",Wild Turkey,Hart,campsite,campsite,,"11",,,,,,,,,40.363162,-75.426246,,,,,true,,,,,,,,,,,H-11
+"106",latrine,,latrine,,,,,,,,,,,,40.363588,-75.425631,,,,,true,,,,,,,,,,,"-"
+"87",Green Turtle Cabin,Hart,campsite,campsite,,"12",,,,,,,,,40.362926,-75.425003,,,,,true,,,,,,,,,,,H-12
+"86",Dock,Hart,dock,dock,,J,,,,,,,,,40.362840,-75.424330,,,,,true,,,,,,,,,,,H-J
+"83",Scoutcraft,Hart,activity,nature,,K,,,,,,,,,40.362534,-75.425804,,,,,true,,,,,,,,,,,H-K
+"84",nature Lodge,Hart,activity,nature,,H,,,,,,,,,40.364192,-75.423521,,,,,true,,,,,,,,,,,H-H
+"78",Rifle Range,Hart,range,range,,A,,,,,,,,,40.366128,-75.425589,,,,,true,,,,,,,,,,,H-A
+"59",Registration Center,Garrison,check-in,check-in,,"1",,,,,,,,,40.370515,-75.434423,,,,,true,,,,,,,,,,,G-1
+"60",Trading Post,Garrison,trading post,,,A,,,,,,,,,40.370690,-75.434685,,,,,true,,,,,,,,,,,G-A
+"57",Pavilion 1,Garrison,Pavilion,Pavilion,,"6",,,,,,,,,40.370201,-75.435183,Paivilion 1 -3,,,,true,,,,,,,,,,,G-6
+"54",Pavilion 6,Garrison,Pavilion,Pavilion,,"7",,,,,,,,,40.371131,-75.434104,Pavilion 4 - 6,,,,true,,,,,,,,,,,G-7
+"51",Fort Akela,Garrison,fort,Cowboy,,"2",,,,,,,,,40.370392,-75.433171,,,,,true,,,,,,,,,,,G-2
+"52",Safeguard Castle,Garrison,castle,Castle,,"3",,,,,,,,,40.369857,-75.431154,,,,,true,,,,,,,,,,,G-3
+"49",Archery & BB Range,Garrison,range,archery,,B,,"-2147483638",,,,,,,40.369264,-75.429898,,,,,true,,,,,,,,,,,G-B
+"47",Native American Village,Garrison,wigwam,Teepee,,"4",,,,,,,,,40.368409,-75.430258,,,,,true,,,,,,,,,,,G-4
+"48",USS Crade of Liberty,Garrison,ship,Ship,,"5",,,,,,,,,40.367154,-75.430667,,,,,true,,,,,,,,,,,G-5
+"45",Restroom,Garrison,restroom,restroom,,"9",,,,,,,,,40.368849,-75.429877,,,,,true,,,,,,,,,,,G-9
+"46",Treehouse Nature Area,Garrison,activity,nature,,D,,,,,,,,,40.368312,-75.428669,,,,,true,,,,,,,,,,,G-D
+"44",shed,Garrison,admin,admin,,,,,,,,,,,40.372270,-75.434045,,,,,false,,,,,,,,,,,G-
+"39",Woods Lane Cabin,Delmont,cabin,cabin,,"26",,,,,,,,,40.352914,-75.442168,Woods Lane Cabin,,,,true,,,,,,,,,,,D-26
+"2",Nelson Training Center,Nelson Training,admin,admin,,D,,,,,,,,,40.355151,-75.440457,Nelson Training Center,"135",,,true,,,,,,,,,,,N-D
+"38",Castle Rock Cabin,Delmont,cabin,cabin,,"33","39","39","1","1",,,,,40.356466,-75.438209,Castle Rock Cabin,,,,true,Rustic,"100",S,Onsite,Yes,,WB,Flat,Stovetop,Yes,D-33
+"4",Maintenance Shop,Delmont,admin,admin,,G,,,,,,,,,40.352362,-75.444411,Shop,"70",,,true,,,,,,,,,,,D-G
+"3",Ranger Residence,Delmont,admin,admin,,"32",,,,,,,,,40.353193,-75.445266,Ranger Residence,"30",,,true,,,,,,,,,,,D-32
+"35",Check in,Delmont,check-in,check-in,,"1",,,,,,,,,40.353484,-75.444318,Nov. - March Check In Cabin,,,,true,,,,,,,,,,,D-1
+"76",Ceremonial Grounds,Hart,OA,OA,,M,,,,,,,,,40.367507,-75.425988,,,,,true,,,,,,,,,,,H-M
+"74",Owl,Hart,tent,tent,,"17",,,,,,,,,40.366742,-75.424126,,,,,true,,,,,,,,,,,H-17
+"75",Dick Smith Campsite,Hart,campsite,campsite,,"16",,,,,,,,,40.366341,-75.423098,,,,,true,,,,,,,,,,,H-16
+"78",Yellow Bear,Hart,campsite,campsite,,"15",,,,,,,,,40.365617,-75.423084,,,,,true,,,,,,,,,,,H-15
+"73",Red Fox,Hart,campsite,campsite,,"14",,,,,,,,,40.364507,-75.423385,,,,,true,,,,,,,,,,,H-14
+"71",Hawk,Hart,tent,tent,,"18",,,,,,,,,40.365541,-75.424610,,,,,true,,,,,,,,,,,H-18
+"69",Falcon,Hart,tent,tent,,"8",,,,,,,,,40.361237,-75.427664,,,,,true,,,,,,,,,,,H-8
+"70",Native Village,Hart,tent,tent,,"19",,,,,,,,,40.360823,-75.427486,,,,,true,,,,,,,,,,,H-19
+"67",Gold Stag,Hart,campsite,campsite,,"20",,"39",,,,,,,40.361596,-75.427432,,,,,true,,,,false,,"2",,,,,H-20
+"68",Pheasant,Hart,tent,tent,,"10",,,,,,,,,40.362304,-75.427315,,,,,true,,,,,,,,,,,H-10
+"109",Staff Area,Hart,Lean-to,,,"5",,,,,,,,,,,,,,,true,,,,,,,,,,,H-5
+"113",Program Pavilion,Garrison,Pavilion,Pavilion,,"8",,,,,,,,,,,,,,,true,,,,,,,,,,,G-8
+"131",Building,Nelson Training,admin,admin,,,,,,,,,,,,,,,,,false,,,,,,,,,,,N-
+"105",Thunderbird Rock,Delmont,feature,thunderbird,,"47",,,,,,,,,,,,,,,true,,,,,,,,,,,D-47
+"126",Dan Beard Cabin,Delmont,cabin,cabin,,"3","39",,"1","1",,,,,,,,,,,true,Rustic,"100",M,Onsite,Yes,,WB,Flat,,,D-3
+"130",Campmaster Compound,Delmont,admin,admin,,"2",,,,,,,,,,,,,,,true,Premier,,,,,,,,"Cabin 3 not usable, Photo Lab not usable",Yes,D-2
+"124",Funk Building,Delmont,admin,admin,,,,,,,,,,,,,,,,,,,,,,,,,,,,D-
+"129",Carlson tent site,Delmont,tent,tent,,"4",,,,,,,,,,,,,,,true,,,,,,,,,,,D-4
+"107",Sutton tent site,Delmont,tent,tent,,"5",,,,,,,,,,,,,,,true,,,,,,,,,,,D-5
+"103",Twin Cedars,Delmont,tent,tent,,"22",,,,,,,,,,,,,,,true,,,,,,,,,,,D-22
+"119",Lakefront,Delmont,tent,tent,,"21",,,,,,,,,,,,,,,true,,,,,,,,,,,D-21
+"120",IROQUOIS,Delmont,tent,tent,,"9",,,,,,,,,,,,,,,true,,,,,,,,,,,D-9
+"125",Delaware,Delmont,tent,tent,,"10",,,,,,,,,,,,,,,true,,,,,,,,,,,D-10
+"135",Algonquin,Delmont,tent,tent,,,,,,,,,,,,,,,,,false,,,,,,,,,,,D-
+"116",Mohawk,Delmont,tent,tent,,"11",,,,,,,,,,,,,,,true,,,,,,,,,,,D-11
+"102",Wilbur,Delmont,tent,tent,,"19",,,,,,,,,,,,,,,true,,,,,,,,,,,D-19
+"118",Lennai Lenape,Delmont,tent,tent,,"17",,,,,,,,,,,,,,,true,,,,,,,,,,,D-17
+"117",Long,Delmont,tent,tent,,"18",,,,,,,,,,,,,,,true,,,,,,,,,,,D-18
+"104",Turtle Rock,Delmont,tent,tent,,"16",,,,,,,,,,,,,,,true,,,,,,,,,,,D-16
+"108",Sunken Spring / Shoe Rock,Delmont,tent,tnet,,"15",,,,,,,,,,,,,,,true,,,,,,,,,,,D-15
+"111",Showers,Delmont,Ruin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,D-
+"115",Nature,Delmont,Pavilion,Pavilion,,"23",,,,,,,,,,,,,,,true,,,,,,,,,,,D-23
+"100",Wilderness,Delmont,tent,tent,,"20",,,,,,,,,,,,,,,true,,,,,,,,,,,D-20
+"133",Birch,Delmont,tent,tent,,"12",,,,,,,,,,,,,,,true,,,,,,,,,,,D-12
+"132",Brookdale,Delmont,tent,tent,,"13",,,,,,,,,,,,,,,true,,,,,,,,,,,D-13
+"123",Handicraft Pavilion,Delmont,Pavilion,Pavilion,,"24",,,,,,,,,,,,,,,true,,,,,,,,,,,D-24
+"121",Hart Campfire Area,Hart,campfire,campfire,,I,,,,,,,,,40.363850,-75.424300,,,,,true,,,,,,,,,,,H-I
+"110",Sleepy Hollow,Delmont,tent,tent,,"14",,,,,,,,,,,,,,,true,,,,,,,,,,,D-14
+"112",Saville Memorial Chapel,Delmont,chapel,chapel,,I,,,,,,,,,,,,,,,true,,,,,,,,,,,D-I
+"114",Parade Field,Hart,parade,flag,,D,,,,,,,,,,,Parade Field,,,,true,,,,,,,,,,,H-D
+"101",Wilbur Rock,Delmont,feature,,,C,,,"0","0","0","0","0","0",,,C,,,,true,,,,,,,,,,,D-C
+"134",Archery Range,Delmont,range,range,,L,,,,,,,,,,,,,,,true,,,,,,,,,,,D-L
+"122",Hart Archery Range,Hart,range,range,,B,,,,,,,,,,,,,,,true,,,,,,,,,,,H-B
+"128",Castle Rock,Delmont,feature,view,,"38",,,,,,,,,,,,,,,true,,,,,,,,,,,D-38
+"127",Climbing Wall,Hart,climbing wall,climbing,Good,Q,,,,,,,,,,,,,,,true,,,,,,,,,,,H-Q
+,climbing wall,Hart,climbing,climbing,,R,,,,,,,,,,,,,,,true,,,,,,,,,,,H-R
+,Handicraft,Hart,activity,handicraft,,F,,,,,,,,,,,,,,,true,,,,,,,,,,,H-F

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2021-11-11T02:56:08Z</time>
+    <bounds maxlat="40.347390454262495" maxlon="-75.441599702462554" minlat="40.346608003601432" minlon="-75.44232901185751" />
+  </metadata>
+
+  <wpt lat="40.346608003601432" lon="-75.442145029082894">
+    <ele>131.74816899999999</ele>
+    <time>2021-11-10T18:49:42Z</time>
+    <name>ARCHERY RANGE</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-11-10T18:49:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.347379976883531" lon="-75.44232901185751">
+    <ele>129.808685</ele>
+    <time>2021-11-10T18:56:14Z</time>
+    <name>RIFLE SHOTGUN RANGE</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-11-10T18:56:14Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>ARCHERY RNG TRAIL 2</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+      <gpxtrkx:TrackStatsExtension xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1">
+        <gpxtrkx:Distance>51</gpxtrkx:Distance>
+      </gpxtrkx:TrackStatsExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="40.346864238381386" lon="-75.441677486523986">
+        <ele>129.43000000000001</ele>
+        <time>2021-11-10T18:47:18Z</time>
+      </trkpt>
+      <trkpt lat="40.346866920590401" lon="-75.44167815707624">
+        <ele>129.43000000000001</ele>
+        <time>2021-11-10T18:47:19Z</time>
+      </trkpt>
+      <trkpt lat="40.346875134855509" lon="-75.441683772951365">
+        <ele>127.98999999999999</ele>
+        <time>2021-11-10T18:47:24Z</time>
+      </trkpt>
+      <trkpt lat="40.346791902557015" lon="-75.44181939214468">
+        <ele>128.94999999999999</ele>
+        <time>2021-11-10T18:47:39Z</time>
+      </trkpt>
+      <trkpt lat="40.346698444336653" lon="-75.441938247531652">
+        <ele>129.43000000000001</ele>
+        <time>2021-11-10T18:47:54Z</time>
+      </trkpt>
+      <trkpt lat="40.346627617254853" lon="-75.44204511679709">
+        <ele>130.88</ele>
+        <time>2021-11-10T18:48:07Z</time>
+      </trkpt>
+      <trkpt lat="40.346609428524971" lon="-75.44216288253665">
+        <ele>131.36000000000001</ele>
+        <time>2021-11-10T18:48:23Z</time>
+      </trkpt>
+      <trkpt lat="40.346675477921963" lon="-75.442218873649836">
+        <ele>131.36000000000001</ele>
+        <time>2021-11-10T18:48:49Z</time>
+      </trkpt>
+      <trkpt lat="40.346610685810447" lon="-75.442133294418454">
+        <ele>131.36000000000001</ele>
+        <time>2021-11-10T18:49:25Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>RIFLE SHOTGUN RANGE TRAIL</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+      <gpxtrkx:TrackStatsExtension xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1">
+        <gpxtrkx:Distance>41</gpxtrkx:Distance>
+      </gpxtrkx:TrackStatsExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="40.347388442605734" lon="-75.441599702462554">
+        <ele>127.03</ele>
+        <time>2021-11-10T18:53:21Z</time>
+      </trkpt>
+      <trkpt lat="40.347390454262495" lon="-75.441600121557713">
+        <ele>127.03</ele>
+        <time>2021-11-10T18:53:22Z</time>
+      </trkpt>
+      <trkpt lat="40.347361704334617" lon="-75.441685533151031">
+        <ele>126.55</ele>
+        <time>2021-11-10T18:53:36Z</time>
+      </trkpt>
+      <trkpt lat="40.347342090681195" lon="-75.441861720755696">
+        <ele>129.43000000000001</ele>
+        <time>2021-11-10T18:53:52Z</time>
+      </trkpt>
+      <trkpt lat="40.347291547805071" lon="-75.442025335505605">
+        <ele>130.40000000000001</ele>
+        <time>2021-11-10T18:54:04Z</time>
+      </trkpt>
+      <trkpt lat="40.347268329933286" lon="-75.442033046856523">
+        <ele>130.88</ele>
+        <time>2021-11-10T18:54:24Z</time>
+      </trkpt>
+      <trkpt lat="40.347230108454823" lon="-75.44215751811862">
+        <ele>130.40000000000001</ele>
+        <time>2021-11-10T18:55:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>
